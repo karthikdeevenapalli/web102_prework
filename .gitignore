@@ -1,2 +1,18 @@
 /node_modules
 package-lock.json
+
+# macOS system files
+.DS_Store
+
+# Node dependencies (if you ever add packages)
+node_modules/
+
+# Environment variables
+.env
+
+# VSCode workspace settings
+.vscode/
+
+# Generated build outputs
+dist/
+build/
